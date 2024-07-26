@@ -1,2 +1,2 @@
 # Portfolio Landing-page
-created by Pratham potdar
+Created by Pratham potdar
